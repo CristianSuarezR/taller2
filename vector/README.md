@@ -2,7 +2,7 @@
 
 ## 🧩 Descripción del programa
 
-El programa **Vector3D** implementa una clase en C++ que permite realizar operaciones matemáticas fundamentales con vectores tridimensionales, aplicando los principios de **Programación Orientada a Objetos (POO)**.  
+El programa **Vector** implementa una clase en C++ que permite realizar operaciones matemáticas fundamentales con vectores tridimensionales, aplicando los principios de **Programación Orientada a Objetos (POO)**.  
 
 Cada vector tiene tres componentes (`x`, `y`, `z`), y la clase proporciona métodos y operadores sobrecargados para facilitar cálculos comunes en álgebra vectorial.
 
@@ -39,7 +39,7 @@ Cada vector tiene tres componentes (`x`, `y`, `z`), y la clase proporciona méto
 2. Abre una terminal **CMD** o **PowerShell** en la carpeta donde se encuentra el archivo.
 
 3. Compila el programa con el siguiente comando:
-g++ vector3D.cpp -o vector3D.exe
+g++ vector.cpp -o vector.exe
 
 5. Ejecuta el programa:
-vector3D.exe
+vector.exe
