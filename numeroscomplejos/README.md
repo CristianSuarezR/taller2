@@ -88,4 +88,5 @@ Si usas terminal (CMD o PowerShell) con MinGW:
 g++ numeroscomplejos.cpp -o numeroscomplejos.exe
 
 ▶️ Ejecución
+
 numeroscomplejos.exe
