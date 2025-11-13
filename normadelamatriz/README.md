@@ -66,7 +66,7 @@ El código utiliza **programación orientada a objetos**, asignación dinámica 
 ### ▶️ Compilación
 Si usas **terminal (CMD o PowerShell)** con MinGW configurado, escribe:
 ```bash
-g++ matriz.cpp -o matriz.exe
+g++ normamatriz.cpp -o normamatriz.exe
 
 ### Ejecución
-matriz.exe
+normamatriz.exe
